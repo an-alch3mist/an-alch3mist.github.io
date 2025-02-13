@@ -1,3 +1,16 @@
+<p align="center">
+  <a href= "https://an-alch3mist.github.io/Advent/" target="_blank" rel="noopener noreferrer">
+    <img height="50px"  src="https://github.com/an-alch3mist/Advent/blob/main/root/readme/advent%20of%20code.svg" alt="Advent of Code logo">
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+     <a href="https://adventofcode.com/"><code>Advent of Code event</code></a> | <a href="https://github.com/an-alch3mist/Advent/tree/main/2024"><code>let y = 2024</code></a>  | <a href="https://x.com/Marching_Tetrod"><code>twitter</code></a>
+</p>
+
+
 ```diff
 +2024/
     DAY-#-desc/
@@ -18,12 +31,14 @@
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-
-
-
-Relative path Access
-Consistent Naming is the Key
-    if you want to access different pages from the root level, or individual index-#-desc level
-    each directory having: index.html as entry
-
 -->
+
+<p align="center">
+     <a href="https://an-alch3mist.github.io/Advent/"><code>an-alch3mist.github.io/Advent/</code></a>
+</p>
+
+
+```diff
+#   include the following in ./index-desc.html
+-   <script src="https://unpkg.com/advent-2024@latest/util.js"></script>
+```
